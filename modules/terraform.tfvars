@@ -1,4 +1,4 @@
-bucket_name = "modules3bucket"
+bucket_name = "cicd-pipeline-test"
 
 cidr = "10.0.0.0/16"
 vpc_name = "myvpc"
