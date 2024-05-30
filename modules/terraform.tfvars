@@ -1,4 +1,4 @@
-bucket_name = "cicd-pipeline-test"
+bucket_name = "zsdxfcgvhjbknlmwertyu"
 
 cidr = "10.0.0.0/16"
 vpc_name = "myvpc"
